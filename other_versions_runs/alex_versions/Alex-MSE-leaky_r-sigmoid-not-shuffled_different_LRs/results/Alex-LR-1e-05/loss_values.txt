@@ -1,0 +1,10 @@
+epoch 21: train loss is 0.003951, validation loss is 0.004088
+epoch 22: train loss is 0.003905, validation loss is 0.004043
+epoch 23: train loss is 0.003866, validation loss is 0.004028
+epoch 24: train loss is 0.003826, validation loss is 0.004022
+epoch 25: train loss is 0.003791, validation loss is 0.004000
+epoch 26: train loss is 0.003760, validation loss is 0.003964
+epoch 27: train loss is 0.003736, validation loss is 0.003924
+epoch 28: train loss is 0.003717, validation loss is 0.003870
+epoch 29: train loss is 0.003695, validation loss is 0.003843
+epoch 30: train loss is 0.003663, validation loss is 0.003808
