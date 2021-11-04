@@ -1,4 +1,4 @@
-# ImageAutoEncoder
+# Image Auto Encoder - CV Workshop HW
 Created by:<br/>
 &nbsp;&nbsp; Ofek Bransky<br/>
 &nbsp;&nbsp; Gal Cohen<br/>
